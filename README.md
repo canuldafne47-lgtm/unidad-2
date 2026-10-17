@@ -69,7 +69,7 @@
 32. (y<sup>2</sup> - 5)<sup>3</sup> = y<sup>6</sup> - 15y<sup>4</sup> + 75y<sup>2</sup> - 125
 
 ---
-### Fatorización 
+### Factorización 
 
 ---
 33. 5n³ + 31n² - 28n = n(5n - 4)(n + 7)
